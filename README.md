@@ -8,7 +8,7 @@
 - **Tracing(Traces):** involves tracking the flow of a request or transaction as it moves through different services and components within a system.
     - `Tracing shows how it is happening.`
 
-![Introduction to Observability](images/Introduction-to-Observability.png)
+<img src="images/Introduction-to-Observability.png" alt="Introduction to Observability" width="50%" />
 
 ## 🤔 Why Monitoring?
 - Monitoring helps us keep an eye on our systems to ensure they are working properly.
