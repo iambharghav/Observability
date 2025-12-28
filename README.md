@@ -29,7 +29,7 @@
     - Understand Behavior
     - Improve Systems
 
-![why-monitoring-why-observability](images/why-monitoring-why-observability.png)
+<img src="images/why-monitoring-why-observability.png" alt="why-monitoring-why-observability" height="30%" width="70%" />
 
 
 ## 🆚 What is the Exact Difference Between Monitoring and Observability?
