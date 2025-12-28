@@ -1,4 +1,4 @@
-# 💡 Observability and Monitoring
+t# 💡 Observability and Monitoring
 - Observability is the ability to understand a complex system's internal state by analyzing the data it produces, such as logs, metrics, and traces.
 
 - **Monitoring(Metrics):** involves tracking system metrics like CPU usage, memory usage, and network performance. Provides alerts based on predefined thresholds and conditions
@@ -8,7 +8,7 @@
 - **Tracing(Traces):** involves tracking the flow of a request or transaction as it moves through different services and components within a system.
     - `Tracing shows how it is happening.`
 
-<img src="images/Introduction-to-Observability.png" alt="Introduction to Observability" width="50%" />
+<img src="images/Introduction-to-Observability.png" alt="Introduction to Observability" height="50%" width="50%" />
 
 ## 🤔 Why Monitoring?
 - Monitoring helps us keep an eye on our systems to ensure they are working properly.
