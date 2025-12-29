@@ -8,7 +8,7 @@
 ## 🏠 Prometheus Architecture
 - Prometheus consists of several core components, each responsible for a specific aspect of the monitoring process.
 
-![Prometheus Architecture](Observability/images/prometheus-architecture.gif)
+![Prometheus Architecture](/prometheus-architecture.gif)
 
 ### 🔥 Prometheus Server
 - Prometheus server is the core component of the monitoring system. It is responsible for scraping metrics from various sources(configured targets), storing them in its time-series database (TSDB), and queries through its HTTP API.
